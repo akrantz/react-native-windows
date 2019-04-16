@@ -4,3 +4,6 @@
 [submodule "Yoga"]
 	path = RNWCS/Yoga
 	url = https://github.com/ReactWindows/yoga
+[submodule "ChakraCore-Debugger"]
+	path = RNWCPP/ChakraCore-Debugger
+	url = https://github.com/Microsoft/ChakraCore-Debugger.git
