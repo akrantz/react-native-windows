@@ -26,6 +26,7 @@
   </PropertyGroup>
 
   <PropertyGroup>
+    <ChakraCoreDebuggerDir>$(ReactNativeWindowsDir)ChakraCore-Debugger</ChakraCoreDebuggerDir>
     <FollyDir>$(ReactNativeWindowsDir)node_modules\react-native\folly</FollyDir>
     <ReactNativeDir>$(ReactNativeWindowsDir)node_modules\react-native</ReactNativeDir>
     <YogaDir>$(ReactNativeWindowsDir)node_modules\react-native\ReactCommon\yoga</YogaDir>
